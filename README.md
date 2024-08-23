@@ -6,7 +6,7 @@ Meu nome é Evelin Vitória Camargo De Paula
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Vocẽ entra em contato comigo 📫
+### Você entra em contato comigo 📫
 
 evelin.camargo.paula@escola.pr.gov.br
 
